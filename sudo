@@ -1,0 +1,14 @@
+#auto mount drive 
+	sudo blkid
+	/dev/sda2: UUID="9C02281F022800BE"
+	sudo etc
+	sudo nano fstab
+	copy 
+
+
+#sudo add-apt-repository ppa:nvbn-rm/ppa
+
+sudo apt-get update
+
+sudo apt-get install everpad
+	
