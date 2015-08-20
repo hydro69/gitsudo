@@ -1,0 +1,23 @@
+git config --global user.name "user_name"
+
+git config --global user.email "email_id"
+
+for folder 
+git init Mytest
+cd Mytest 
+
+
+
+git remote add origin http://github.com/user_name/Mytest.git
+
+git add filename
+git commit -m "message"
+
+git push origin master
+
+
+and for getting 
+git clone httpslink
+
+
+
