@@ -1,0 +1,26 @@
+#inital setup
+
+git config --global user.name "username"
+git config --global user.email "emailid"
+
+#for cloning 
+
+git clone https-link    //getting the repository in github 	 
+
+cd directory/
+
+#to initialize a directory
+
+git init      //To initialize a directory as a github repository
+
+#files that u want to send to github
+
+git add filename
+git commit -m "yes i want to send this/these file/s"
+
+#to know the changes in repository 
+git status
+
+#to push 
+git push origin master  //this will push the repository to the github 
+
